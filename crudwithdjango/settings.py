@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'todo_crud_test',
         'USER': 'root',
-        'PASSWORD': 'sameem77',
+        'PASSWORD': 'password',
         'HOST': 'localhost',
         'PORT': '3306',
     }
